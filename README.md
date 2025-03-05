@@ -1,36 +1,18 @@
-# Hangman
+# Hangman HW
+ Fun to hangman game made with React
 
-![Project Screenshot](Preview_SS.png)
+## Available Scripts
 
-## Description  
-A simple Hangman game built with React using class-based components.
+In the project directory, you can run:
 
-## How to Play
-1. Guess letters one at a time to reveal the hidden word.
-2. You have 6 lives. Each incorrect guess reduces your lives by 1.
-3. Win by guessing all the letters in the word before running out of lives.
+### `npm install`
+Installs required dependencies
 
-### Running the app
+### `npm start`
 
-1. Clone the repository of the project in the terminal using:
-````
-git clone https://github.com/JahmaliB/Hangman.git
-````
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-2. Change your current directory to the project's directory using:
-````
-cd Hangman
-````
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-3. Install the dependencies needed to run the program using:
-````
-npm install
-````
-
-4. Start the server using:
-````
-npm start
-````
-
-5. (Optional) Your program should open automatically but if it does not copy and paste this into your browser:
-'http://localhost:3000'
